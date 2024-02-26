@@ -1,0 +1,18 @@
+#!/bin/bash
+#PBS -S /bin/bash
+#PBS -q batch
+#PBS -l walltime=24:00:00
+#PBS -l nodes=1:ppn=4
+#PBS -l mem=20gb
+#PBS -N BioinformaticPipeline_Job
+#PBS -o /Users/ngan/Desktop/PhD_yr12/Guy/Interviewtasks/BioinformaticPipeline_Env/BioinformaticPipeline_Output.log
+#PBS -e /Users/ngan/Desktop/PhD_yr12/Guy/Interviewtasks/BioinformaticPipeline_Env/BioinformaticPipeline_Error.log
+
+# Change to the BioinformaticPipeline in home directory
+cd /Users/ngan/Desktop/PhD_yr12/Guy/Interviewtasks/BioinformaticPipeline_Env 
+
+# Activate the conda environment
+conda activate ./BioinformaticPipeline/env
+
+# Run the R script
+Rscript "BioinformaticPipeline/ControlScripts/ControlScriptExample.r"
