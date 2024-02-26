@@ -12,7 +12,7 @@
 cd /Users/ngan/Desktop/PhD_yr12/Guy/Interviewtasks/BioinformaticPipeline_Env 
 
 # Activate the conda environment
-conda activate ./BioinformaticPipeline/env
+source /Users/ngan/opt/anaconda3/bin/activate ./BioinformaticPipeline/env
 
 # Run the R script
 Rscript "BioinformaticPipeline/ControlScripts/ControlScriptExample.r"
