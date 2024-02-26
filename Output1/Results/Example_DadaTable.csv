@@ -1,0 +1,5 @@
+"","rowname","input","filtered","denoisedF","denoisedR","merged","non-chimeric, applied post reorientation and merging of FO and RO"
+"1","SMALLDuplicate_CS_Low_Illi_127_42_L001__Run2",5000,4890,4586,4651,4182,3905
+"2","SMALLDuplicate_RVS_Low_Illi_123_10_L001__Run2",5000,4885,4650,4680,4436,4273
+"3","SMALL_CS_Low_Illi_127_42_L001__Run1",5000,4890,4586,4651,4182,3905
+"4","SMALL_RVS_Low_Illi_123_10_L001__Run1",5000,4885,4650,4680,4436,4273
