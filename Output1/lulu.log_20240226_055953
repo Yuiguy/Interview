@@ -1,0 +1,777 @@
+
+####processing: OTU_65 #####
+---hits: OTU_63 
+---hits: OTU_64
+---potential parent: 
+No parent found!
+
+####processing: OTU_6 #####
+---hits: OTU_7 
+---hits: OTU_14
+---potential parent: 
+No parent found!
+
+####processing: OTU_1 #####
+---hits: OTU_0
+---potential parent: 
+No parent found!
+
+####processing: OTU_88 #####
+---hits: OTU_89
+---potential parent: 
+No parent found!
+
+####processing: OTU_60 #####
+---hits: OTU_80
+---potential parent: 
+No parent found!
+
+####processing: OTU_27 #####
+---hits: OTU_49 
+---hits: OTU_54 
+---hits: OTU_52 
+---hits: OTU_29 
+---hits: OTU_47 
+---hits: OTU_55 
+---hits: OTU_30
+---potential parent: 
+No parent found!
+
+####processing: OTU_16 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: OTU_39 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: OTU_30 #####
+---hits: OTU_86 
+---hits: OTU_55 
+---hits: OTU_54 
+---hits: OTU_29 
+---hits: OTU_27 
+---hits: OTU_52 
+---hits: OTU_56
+---potential parent: OTU_27 
+---potential parent: OTU_56 
+---potential parent: OTU_54 
+---potential parent: OTU_55 
+---potential parent: OTU_52 
+---potential parent: OTU_86 
+---potential parent: OTU_29
+------checking: OTU_27
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 0.00210526315789474
+------checking: OTU_56
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 0.0468421052631579
+------checking: OTU_54
+------relative cooccurence: 0
+------checking: OTU_55
+------relative cooccurence: 0
+------checking: OTU_52
+------relative cooccurence: 0
+------checking: OTU_86
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 0.00157894736842105
+------checking: OTU_29
+------relative cooccurence: 0
+No parent found!
+
+####processing: OTU_51 #####
+---hits: OTU_50
+---potential parent: OTU_50
+------checking: OTU_50
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 0.000868432479374729
+No parent found!
+
+####processing: OTU_36 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: OTU_56 #####
+---hits: OTU_54 
+---hits: OTU_55 
+---hits: OTU_30 
+---hits: OTU_49
+---potential parent: OTU_30 
+---potential parent: OTU_54 
+---potential parent: OTU_55 
+---potential parent: OTU_49
+------checking: OTU_30
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 21.3483146067416 which is OK!
+SETTING OTU_56 to be an ERROR of OTU_30
+
+------checking: OTU_54
+------checking: OTU_55
+------checking: OTU_49
+####processing: OTU_64 #####
+---hits: OTU_63 
+---hits: OTU_65
+---potential parent: OTU_65 
+---potential parent: OTU_63
+------checking: OTU_65
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 0.413223140495868
+------checking: OTU_63
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 0.619834710743802
+No parent found!
+
+####processing: OTU_63 #####
+---hits: OTU_64 
+---hits: OTU_65
+---potential parent: OTU_65 
+---potential parent: OTU_64
+------checking: OTU_65
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 0.666666666666667
+------checking: OTU_64
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 1.61333333333333 which is OK!
+SETTING OTU_63 to be an ERROR of OTU_64
+
+####processing: OTU_92 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: OTU_82 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: OTU_13 #####
+---hits: OTU_12 
+---hits: OTU_11
+---potential parent: OTU_11 
+---potential parent: OTU_12
+------checking: OTU_11
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 0.283018867924528
+------checking: OTU_12
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 0.207547169811321
+No parent found!
+
+####processing: OTU_53 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: OTU_87 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: OTU_34 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: OTU_7 #####
+---hits: OTU_6 
+---hits: OTU_14
+---potential parent: OTU_6 
+---potential parent: OTU_14
+------checking: OTU_6
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 2.22857142857143 which is OK!
+SETTING OTU_7 to be an ERROR of OTU_6
+
+------checking: OTU_14
+####processing: OTU_4 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: OTU_32 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: OTU_54 #####
+---hits: OTU_56 
+---hits: OTU_55 
+---hits: OTU_27 
+---hits: OTU_30 
+---hits: OTU_49 
+---hits: OTU_47
+---potential parent: OTU_27 
+---potential parent: OTU_30 
+---potential parent: OTU_56 
+---potential parent: OTU_55 
+---potential parent: OTU_49 
+---potential parent: OTU_47
+------checking: OTU_27
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 1
+------checking: OTU_30
+------relative cooccurence: 0
+------checking: OTU_56
+------relative cooccurence: 0
+------checking: OTU_55
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 0.625
+------checking: OTU_49
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 0.458333333333333
+------checking: OTU_47
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 0.291666666666667
+No parent found!
+
+####processing: OTU_72 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: OTU_78 #####
+---hits: OTU_62
+---potential parent: OTU_62
+------checking: OTU_62
+------relative cooccurence: 0
+No parent found!
+
+####processing: OTU_96 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: OTU_81 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: OTU_41 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: OTU_94 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: OTU_95 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: OTU_21 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: OTU_76 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: OTU_11 #####
+---hits: OTU_13 
+---hits: OTU_12
+---potential parent: OTU_13 
+---potential parent: OTU_12
+------checking: OTU_13
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 3.53333333333333 which is OK!
+SETTING OTU_11 to be an ERROR of OTU_13
+
+------checking: OTU_12
+####processing: OTU_14 #####
+---hits: OTU_15 
+---hits: OTU_6 
+---hits: OTU_7
+---potential parent: OTU_6 
+---potential parent: OTU_7 
+---potential parent: OTU_15
+------checking: OTU_6
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 5.2 which is OK!
+SETTING OTU_14 to be an ERROR of OTU_6
+
+------checking: OTU_7
+------checking: OTU_15
+####processing: OTU_44 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: OTU_55 #####
+---hits: OTU_54 
+---hits: OTU_30 
+---hits: OTU_86 
+---hits: OTU_27 
+---hits: OTU_56 
+---hits: OTU_52
+---potential parent: OTU_27 
+---potential parent: OTU_30 
+---potential parent: OTU_56 
+---potential parent: OTU_54 
+---potential parent: OTU_52 
+---potential parent: OTU_86
+------checking: OTU_27
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 1.6 which is OK!
+SETTING OTU_55 to be an ERROR of OTU_27
+
+------checking: OTU_30
+------checking: OTU_56
+------checking: OTU_54
+------checking: OTU_52
+------checking: OTU_86
+####processing: OTU_0 #####
+---hits: OTU_1
+---potential parent: OTU_1
+------checking: OTU_1
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 4.07142857142857 which is OK!
+SETTING OTU_0 to be an ERROR of OTU_1
+
+####processing: OTU_10 #####
+---hits: OTU_43 
+---hits: OTU_84 
+---hits: OTU_73
+---potential parent: OTU_84 
+---potential parent: OTU_43 
+---potential parent: OTU_73
+------checking: OTU_84
+------relative cooccurence: 0
+------checking: OTU_43
+------relative cooccurence: 0
+------checking: OTU_73
+------relative cooccurence: 0
+No parent found!
+
+####processing: OTU_62 #####
+---hits: OTU_78
+---potential parent: OTU_78
+------checking: OTU_78
+------relative cooccurence: 0
+No parent found!
+
+####processing: OTU_84 #####
+---hits: OTU_73 
+---hits: OTU_10 
+---hits: OTU_43
+---potential parent: OTU_10 
+---potential parent: OTU_43 
+---potential parent: OTU_73
+------checking: OTU_10
+------relative cooccurence: 0
+------checking: OTU_43
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 0.642857142857143
+------checking: OTU_73
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 0.285714285714286
+No parent found!
+
+####processing: OTU_52 #####
+---hits: OTU_29 
+---hits: OTU_27 
+---hits: OTU_47 
+---hits: OTU_49 
+---hits: OTU_30 
+---hits: OTU_55
+---potential parent: OTU_27 
+---potential parent: OTU_30 
+---potential parent: OTU_55 
+---potential parent: OTU_49 
+---potential parent: OTU_47 
+---potential parent: OTU_29
+------checking: OTU_27
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 1.84615384615385 which is OK!
+SETTING OTU_52 to be an ERROR of OTU_27
+
+------checking: OTU_30
+------checking: OTU_55
+------checking: OTU_49
+------checking: OTU_47
+------checking: OTU_29
+####processing: OTU_24 #####
+---hits: OTU_23
+---potential parent: OTU_23
+------checking: OTU_23
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 0.666666666666667
+No parent found!
+
+####processing: OTU_37 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: OTU_79 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: OTU_12 #####
+---hits: OTU_13 
+---hits: OTU_11
+---potential parent: OTU_13 
+---potential parent: OTU_11
+------checking: OTU_13
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 4.81818181818182 which is OK!
+SETTING OTU_12 to be an ERROR of OTU_13
+
+------checking: OTU_11
+####processing: OTU_35 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: OTU_46 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: OTU_49 #####
+---hits: OTU_27 
+---hits: OTU_47 
+---hits: OTU_29 
+---hits: OTU_52 
+---hits: OTU_54 
+---hits: OTU_56
+---potential parent: OTU_27 
+---potential parent: OTU_56 
+---potential parent: OTU_54 
+---potential parent: OTU_52 
+---potential parent: OTU_47 
+---potential parent: OTU_29
+------checking: OTU_27
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 2.18181818181818 which is OK!
+SETTING OTU_49 to be an ERROR of OTU_27
+
+------checking: OTU_56
+------checking: OTU_54
+------checking: OTU_52
+------checking: OTU_47
+------checking: OTU_29
+####processing: OTU_89 #####
+---hits: OTU_88
+---potential parent: OTU_88
+------checking: OTU_88
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 3.90909090909091 which is OK!
+SETTING OTU_89 to be an ERROR of OTU_88
+
+####processing: OTU_80 #####
+---hits: OTU_60
+---potential parent: OTU_60
+------checking: OTU_60
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 2.7 which is OK!
+SETTING OTU_80 to be an ERROR of OTU_60
+
+####processing: OTU_43 #####
+---hits: OTU_10 
+---hits: OTU_84 
+---hits: OTU_73
+---potential parent: OTU_10 
+---potential parent: OTU_84 
+---potential parent: OTU_73
+------checking: OTU_10
+------relative cooccurence: 0
+------checking: OTU_84
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 1.55555555555556 which is OK!
+SETTING OTU_43 to be an ERROR of OTU_84
+
+------checking: OTU_73
+####processing: OTU_19 #####
+---hits: OTU_20
+---potential parent: OTU_20
+------checking: OTU_20
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 0.75
+No parent found!
+
+####processing: OTU_23 #####
+---hits: OTU_24
+---potential parent: OTU_24
+------checking: OTU_24
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 1.5 which is OK!
+SETTING OTU_23 to be an ERROR of OTU_24
+
+####processing: OTU_31 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: OTU_5 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: OTU_67 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: OTU_71 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: OTU_28 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: OTU_47 #####
+---hits: OTU_49 
+---hits: OTU_27 
+---hits: OTU_52 
+---hits: OTU_29 
+---hits: OTU_54
+---potential parent: OTU_27 
+---potential parent: OTU_54 
+---potential parent: OTU_52 
+---potential parent: OTU_49 
+---potential parent: OTU_29
+------checking: OTU_27
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 3.42857142857143 which is OK!
+SETTING OTU_47 to be an ERROR of OTU_27
+
+------checking: OTU_54
+------checking: OTU_52
+------checking: OTU_49
+------checking: OTU_29
+####processing: OTU_58 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: OTU_59 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: OTU_20 #####
+---hits: OTU_19
+---potential parent: OTU_19
+------checking: OTU_19
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 1.33333333333333 which is OK!
+SETTING OTU_20 to be an ERROR of OTU_19
+
+####processing: OTU_48 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: OTU_86 #####
+---hits: OTU_30 
+---hits: OTU_55
+---potential parent: OTU_30 
+---potential parent: OTU_55
+------checking: OTU_30
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 633.333333333333 which is OK!
+SETTING OTU_86 to be an ERROR of OTU_30
+
+------checking: OTU_55
+####processing: OTU_29 #####
+---hits: OTU_52 
+---hits: OTU_27 
+---hits: OTU_49 
+---hits: OTU_30 
+---hits: OTU_47
+---potential parent: OTU_27 
+---potential parent: OTU_30 
+---potential parent: OTU_52 
+---potential parent: OTU_49 
+---potential parent: OTU_47
+------checking: OTU_27
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 4.8 which is OK!
+SETTING OTU_29 to be an ERROR of OTU_27
+
+------checking: OTU_30
+------checking: OTU_52
+------checking: OTU_49
+------checking: OTU_47
+####processing: OTU_3 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: OTU_70 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: OTU_83 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: OTU_15 #####
+---hits: OTU_14
+---potential parent: OTU_14
+------checking: OTU_14
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 3.75 which is OK!
+SETTING OTU_15 to be an ERROR of OTU_6
+
+####processing: OTU_18 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: OTU_40 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: OTU_45 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: OTU_61 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: OTU_69 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: OTU_73 #####
+---hits: OTU_84 
+---hits: OTU_10 
+---hits: OTU_43
+---potential parent: OTU_10 
+---potential parent: OTU_84 
+---potential parent: OTU_43
+------checking: OTU_10
+------relative cooccurence: 0
+------checking: OTU_84
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 3.5 which is OK!
+SETTING OTU_73 to be an ERROR of OTU_84
+
+------checking: OTU_43
+####processing: OTU_77 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: OTU_85 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: OTU_90 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: OTU_91 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: OTU_17 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: OTU_26 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: OTU_42 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: OTU_8 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: OTU_2 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: OTU_22 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: OTU_25 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: OTU_33 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: OTU_38 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: OTU_50 #####
+---hits: OTU_51
+---potential parent: OTU_51
+------checking: OTU_51
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 1151.5 which is OK!
+SETTING OTU_50 to be an ERROR of OTU_51
+
+####processing: OTU_57 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: OTU_66 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: OTU_68 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: OTU_74 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: OTU_75 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: OTU_9 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: OTU_93 #####
+---hits: 
+---potential parent: 
+No parent found!

@@ -1,0 +1,1051 @@
+
+####processing: ESV_9 #####
+---hits: ESV_44
+---potential parent: 
+No parent found!
+
+####processing: ESV_11 #####
+---hits: ESV_30 
+---hits: ESV_47 
+---hits: ESV_8 
+---hits: ESV_16 
+---hits: ESV_10
+---potential parent: 
+No parent found!
+
+####processing: ESV_12 #####
+---hits: ESV_29 
+---hits: ESV_36 
+---hits: ESV_21 
+---hits: ESV_39
+---potential parent: 
+No parent found!
+
+####processing: ESV_17 #####
+---hits: ESV_55
+---potential parent: 
+No parent found!
+
+####processing: ESV_23 #####
+---hits: ESV_52 
+---hits: ESV_24 
+---hits: ESV_48 
+---hits: ESV_71 
+---hits: ESV_78 
+---hits: ESV_41 
+---hits: ESV_1
+---potential parent: 
+No parent found!
+
+####processing: ESV_1 #####
+---hits: ESV_76 
+---hits: ESV_41 
+---hits: ESV_24 
+---hits: ESV_78 
+---hits: ESV_23 
+---hits: ESV_6 
+---hits: ESV_48
+---potential parent: ESV_23 
+---potential parent: ESV_6 
+---potential parent: ESV_24 
+---potential parent: ESV_41 
+---potential parent: ESV_48 
+---potential parent: ESV_76 
+---potential parent: ESV_78
+------checking: ESV_23
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 0.00210526315789474
+------checking: ESV_6
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 0.0468421052631579
+------checking: ESV_24
+------relative cooccurence: 0
+------checking: ESV_41
+------relative cooccurence: 0
+------checking: ESV_48
+------relative cooccurence: 0
+------checking: ESV_76
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 0.00157894736842105
+------checking: ESV_78
+------relative cooccurence: 0
+No parent found!
+
+####processing: ESV_2 #####
+---hits: ESV_3 
+---hits: ESV_7 
+---hits: ESV_4 
+---hits: ESV_105
+---potential parent: ESV_3 
+---potential parent: ESV_4 
+---potential parent: ESV_7 
+---potential parent: ESV_105
+------checking: ESV_3
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 0.298517520215633
+------checking: ESV_4
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 0.16644204851752
+------checking: ESV_7
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 0.0869272237196766
+------checking: ESV_105
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 0.00134770889487871
+No parent found!
+
+####processing: ESV_3 #####
+---hits: ESV_4 
+---hits: ESV_2 
+---hits: ESV_7
+---potential parent: ESV_2 
+---potential parent: ESV_4 
+---potential parent: ESV_7
+------checking: ESV_2
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 3.34988713318284 which is OK!
+SETTING ESV_3 to be an ERROR of ESV_2
+
+------checking: ESV_4
+------checking: ESV_7
+####processing: ESV_4 #####
+---hits: ESV_7 
+---hits: ESV_3 
+---hits: ESV_2 
+---hits: ESV_56
+---potential parent: ESV_2 
+---potential parent: ESV_3 
+---potential parent: ESV_7 
+---potential parent: ESV_56
+------checking: ESV_2
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 6.0080971659919 which is OK!
+SETTING ESV_4 to be an ERROR of ESV_2
+
+------checking: ESV_3
+------checking: ESV_7
+------checking: ESV_56
+####processing: ESV_5 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: ESV_6 #####
+---hits: ESV_24 
+---hits: ESV_41 
+---hits: ESV_1 
+---hits: ESV_52
+---potential parent: ESV_1 
+---potential parent: ESV_24 
+---potential parent: ESV_41 
+---potential parent: ESV_52
+------checking: ESV_1
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 21.3483146067416 which is OK!
+SETTING ESV_6 to be an ERROR of ESV_1
+
+------checking: ESV_24
+------checking: ESV_41
+------checking: ESV_52
+####processing: ESV_7 #####
+---hits: ESV_4 
+---hits: ESV_3 
+---hits: ESV_2
+---potential parent: ESV_2 
+---potential parent: ESV_3 
+---potential parent: ESV_4
+------checking: ESV_2
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 11.5038759689922 which is OK!
+SETTING ESV_7 to be an ERROR of ESV_2
+
+------checking: ESV_3
+------checking: ESV_4
+####processing: ESV_8 #####
+---hits: ESV_30 
+---hits: ESV_11 
+---hits: ESV_10 
+---hits: ESV_47 
+---hits: ESV_16
+---potential parent: ESV_11 
+---potential parent: ESV_10 
+---potential parent: ESV_16 
+---potential parent: ESV_30 
+---potential parent: ESV_47
+------checking: ESV_11
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 0.485436893203884
+------checking: ESV_10
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 0.728155339805825
+------checking: ESV_16
+------relative cooccurence: 0
+------checking: ESV_30
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 0.174757281553398
+------checking: ESV_47
+------relative cooccurence: 0
+No parent found!
+
+####processing: ESV_10 #####
+---hits: ESV_47 
+---hits: ESV_8 
+---hits: ESV_16 
+---hits: ESV_11 
+---hits: ESV_30
+---potential parent: ESV_11 
+---potential parent: ESV_8 
+---potential parent: ESV_16 
+---potential parent: ESV_30 
+---potential parent: ESV_47
+------checking: ESV_11
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 0.666666666666667
+------checking: ESV_8
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 1.37333333333333 which is OK!
+SETTING ESV_10 to be an ERROR of ESV_8
+
+------checking: ESV_16
+------checking: ESV_30
+------checking: ESV_47
+####processing: ESV_13 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: ESV_14 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: ESV_15 #####
+---hits: ESV_53 
+---hits: ESV_40
+---potential parent: ESV_40 
+---potential parent: ESV_53
+------checking: ESV_40
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 0.283018867924528
+------checking: ESV_53
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 0.207547169811321
+No parent found!
+
+####processing: ESV_16 #####
+---hits: ESV_47 
+---hits: ESV_11 
+---hits: ESV_10 
+---hits: ESV_30 
+---hits: ESV_8
+---potential parent: ESV_11 
+---potential parent: ESV_8 
+---potential parent: ESV_10 
+---potential parent: ESV_30 
+---potential parent: ESV_47
+------checking: ESV_11
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 0.333333333333333
+------checking: ESV_8
+------relative cooccurence: 0
+------checking: ESV_10
+------relative cooccurence: 0
+------checking: ESV_30
+------relative cooccurence: 0
+------checking: ESV_47
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 0.274509803921569
+No parent found!
+
+####processing: ESV_18 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: ESV_19 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: ESV_20 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: ESV_21 #####
+---hits: ESV_29 
+---hits: ESV_12 
+---hits: ESV_36 
+---hits: ESV_39
+---potential parent: ESV_12 
+---potential parent: ESV_29 
+---potential parent: ESV_36 
+---potential parent: ESV_39
+------checking: ESV_12
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 1.22857142857143 which is OK!
+SETTING ESV_21 to be an ERROR of ESV_12
+
+------checking: ESV_29
+------checking: ESV_36
+------checking: ESV_39
+####processing: ESV_22 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: ESV_24 #####
+---hits: ESV_6 
+---hits: ESV_41 
+---hits: ESV_23 
+---hits: ESV_1 
+---hits: ESV_52 
+---hits: ESV_71
+---potential parent: ESV_23 
+---potential parent: ESV_1 
+---potential parent: ESV_6 
+---potential parent: ESV_41 
+---potential parent: ESV_52 
+---potential parent: ESV_71
+------checking: ESV_23
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 1
+------checking: ESV_1
+------relative cooccurence: 0
+------checking: ESV_6
+------relative cooccurence: 0
+------checking: ESV_41
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 0.625
+------checking: ESV_52
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 0.458333333333333
+------checking: ESV_71
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 0.291666666666667
+No parent found!
+
+####processing: ESV_25 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: ESV_26 #####
+---hits: ESV_43
+---potential parent: ESV_43
+------checking: ESV_43
+------relative cooccurence: 0
+No parent found!
+
+####processing: ESV_27 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: ESV_28 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: ESV_29 #####
+---hits: ESV_12 
+---hits: ESV_21 
+---hits: ESV_36 
+---hits: ESV_39
+---potential parent: ESV_12 
+---potential parent: ESV_21 
+---potential parent: ESV_36 
+---potential parent: ESV_39
+------checking: ESV_12
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 2.38888888888889 which is OK!
+SETTING ESV_29 to be an ERROR of ESV_12
+
+------checking: ESV_21
+------checking: ESV_36
+------checking: ESV_39
+####processing: ESV_30 #####
+---hits: ESV_11 
+---hits: ESV_8 
+---hits: ESV_47 
+---hits: ESV_16 
+---hits: ESV_10
+---potential parent: ESV_11 
+---potential parent: ESV_8 
+---potential parent: ESV_10 
+---potential parent: ESV_16 
+---potential parent: ESV_47
+------checking: ESV_11
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 2.77777777777778 which is OK!
+SETTING ESV_30 to be an ERROR of ESV_11
+
+------checking: ESV_8
+------checking: ESV_10
+------checking: ESV_16
+------checking: ESV_47
+####processing: ESV_31 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: ESV_32 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: ESV_33 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: ESV_34 #####
+---hits: ESV_63
+---potential parent: ESV_63
+------checking: ESV_63
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 0.470588235294118
+No parent found!
+
+####processing: ESV_35 #####
+---hits: ESV_57 
+---hits: ESV_75 
+---hits: ESV_59
+---potential parent: ESV_57 
+---potential parent: ESV_59 
+---potential parent: ESV_75
+------checking: ESV_57
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 0.588235294117647
+------checking: ESV_59
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 0.588235294117647
+------checking: ESV_75
+------relative cooccurence: 0
+No parent found!
+
+####processing: ESV_36 #####
+---hits: ESV_12 
+---hits: ESV_29 
+---hits: ESV_21 
+---hits: ESV_39
+---potential parent: ESV_12 
+---potential parent: ESV_21 
+---potential parent: ESV_29 
+---potential parent: ESV_39
+------checking: ESV_12
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 2.52941176470588 which is OK!
+SETTING ESV_36 to be an ERROR of ESV_12
+
+------checking: ESV_21
+------checking: ESV_29
+------checking: ESV_39
+####processing: ESV_37 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: ESV_38 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: ESV_39 #####
+---hits: ESV_86 
+---hits: ESV_29 
+---hits: ESV_12 
+---hits: ESV_21 
+---hits: ESV_36
+---potential parent: ESV_12 
+---potential parent: ESV_21 
+---potential parent: ESV_29 
+---potential parent: ESV_36 
+---potential parent: ESV_86
+------checking: ESV_12
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 2.86666666666667 which is OK!
+SETTING ESV_39 to be an ERROR of ESV_12
+
+------checking: ESV_21
+------checking: ESV_29
+------checking: ESV_36
+------checking: ESV_86
+####processing: ESV_40 #####
+---hits: ESV_15 
+---hits: ESV_53
+---potential parent: ESV_15 
+---potential parent: ESV_53
+------checking: ESV_15
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 3.53333333333333 which is OK!
+SETTING ESV_40 to be an ERROR of ESV_15
+
+------checking: ESV_53
+####processing: ESV_41 #####
+---hits: ESV_24 
+---hits: ESV_1 
+---hits: ESV_76 
+---hits: ESV_6 
+---hits: ESV_23 
+---hits: ESV_48
+---potential parent: ESV_23 
+---potential parent: ESV_1 
+---potential parent: ESV_6 
+---potential parent: ESV_24 
+---potential parent: ESV_48 
+---potential parent: ESV_76
+------checking: ESV_23
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 1.6 which is OK!
+SETTING ESV_41 to be an ERROR of ESV_23
+
+------checking: ESV_1
+------checking: ESV_6
+------checking: ESV_24
+------checking: ESV_48
+------checking: ESV_76
+####processing: ESV_42 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: ESV_43 #####
+---hits: ESV_26
+---potential parent: ESV_26
+------checking: ESV_26
+------relative cooccurence: 0
+No parent found!
+
+####processing: ESV_44 #####
+---hits: ESV_9
+---potential parent: ESV_9
+------checking: ESV_9
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 4.07142857142857 which is OK!
+SETTING ESV_44 to be an ERROR of ESV_9
+
+####processing: ESV_45 #####
+---hits: ESV_88 
+---hits: ESV_46 
+---hits: ESV_60
+---potential parent: ESV_46 
+---potential parent: ESV_60 
+---potential parent: ESV_88
+------checking: ESV_46
+------relative cooccurence: 0
+------checking: ESV_60
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 0.642857142857143
+------checking: ESV_88
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 0.285714285714286
+No parent found!
+
+####processing: ESV_46 #####
+---hits: ESV_45 
+---hits: ESV_60 
+---hits: ESV_88
+---potential parent: ESV_45 
+---potential parent: ESV_60 
+---potential parent: ESV_88
+------checking: ESV_45
+------relative cooccurence: 0
+------checking: ESV_60
+------relative cooccurence: 0
+------checking: ESV_88
+------relative cooccurence: 0
+No parent found!
+
+####processing: ESV_47 #####
+---hits: ESV_16 
+---hits: ESV_11 
+---hits: ESV_30 
+---hits: ESV_10 
+---hits: ESV_8
+---potential parent: ESV_11 
+---potential parent: ESV_8 
+---potential parent: ESV_10 
+---potential parent: ESV_16 
+---potential parent: ESV_30
+------checking: ESV_11
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 1.21428571428571 which is OK!
+SETTING ESV_47 to be an ERROR of ESV_11
+
+------checking: ESV_8
+------checking: ESV_10
+------checking: ESV_16
+------checking: ESV_30
+####processing: ESV_48 #####
+---hits: ESV_78 
+---hits: ESV_23 
+---hits: ESV_71 
+---hits: ESV_52 
+---hits: ESV_1 
+---hits: ESV_41
+---potential parent: ESV_23 
+---potential parent: ESV_1 
+---potential parent: ESV_41 
+---potential parent: ESV_52 
+---potential parent: ESV_71 
+---potential parent: ESV_78
+------checking: ESV_23
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 1.84615384615385 which is OK!
+SETTING ESV_48 to be an ERROR of ESV_23
+
+------checking: ESV_1
+------checking: ESV_41
+------checking: ESV_52
+------checking: ESV_71
+------checking: ESV_78
+####processing: ESV_49 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: ESV_50 #####
+---hits: ESV_64
+---potential parent: ESV_64
+------checking: ESV_64
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 0.666666666666667
+No parent found!
+
+####processing: ESV_51 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: ESV_52 #####
+---hits: ESV_23 
+---hits: ESV_71 
+---hits: ESV_48 
+---hits: ESV_78 
+---hits: ESV_24 
+---hits: ESV_6
+---potential parent: ESV_23 
+---potential parent: ESV_6 
+---potential parent: ESV_24 
+---potential parent: ESV_48 
+---potential parent: ESV_71 
+---potential parent: ESV_78
+------checking: ESV_23
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 2.18181818181818 which is OK!
+SETTING ESV_52 to be an ERROR of ESV_23
+
+------checking: ESV_6
+------checking: ESV_24
+------checking: ESV_48
+------checking: ESV_71
+------checking: ESV_78
+####processing: ESV_53 #####
+---hits: ESV_15 
+---hits: ESV_40
+---potential parent: ESV_15 
+---potential parent: ESV_40
+------checking: ESV_15
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 4.81818181818182 which is OK!
+SETTING ESV_53 to be an ERROR of ESV_15
+
+------checking: ESV_40
+####processing: ESV_54 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: ESV_55 #####
+---hits: ESV_17
+---potential parent: ESV_17
+------checking: ESV_17
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 3.90909090909091 which is OK!
+SETTING ESV_55 to be an ERROR of ESV_17
+
+####processing: ESV_56 #####
+---hits: ESV_4
+---potential parent: ESV_4
+------checking: ESV_4
+------relative cooccurence: 0
+No parent found!
+
+####processing: ESV_57 #####
+---hits: ESV_35 
+---hits: ESV_75 
+---hits: ESV_59
+---potential parent: ESV_35 
+---potential parent: ESV_59 
+---potential parent: ESV_75
+------checking: ESV_35
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 1.7 which is OK!
+SETTING ESV_57 to be an ERROR of ESV_35
+
+------checking: ESV_59
+------checking: ESV_75
+####processing: ESV_58 #####
+---hits: ESV_67
+---potential parent: ESV_67
+------checking: ESV_67
+------relative cooccurence: 0
+No parent found!
+
+####processing: ESV_59 #####
+---hits: ESV_75 
+---hits: ESV_57 
+---hits: ESV_35
+---potential parent: ESV_35 
+---potential parent: ESV_57 
+---potential parent: ESV_75
+------checking: ESV_35
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 1.7 which is OK!
+SETTING ESV_59 to be an ERROR of ESV_35
+
+------checking: ESV_57
+------checking: ESV_75
+####processing: ESV_60 #####
+---hits: ESV_46 
+---hits: ESV_45 
+---hits: ESV_88
+---potential parent: ESV_45 
+---potential parent: ESV_46 
+---potential parent: ESV_88
+------checking: ESV_45
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 1.55555555555556 which is OK!
+SETTING ESV_60 to be an ERROR of ESV_45
+
+------checking: ESV_46
+------checking: ESV_88
+####processing: ESV_61 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: ESV_62 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: ESV_63 #####
+---hits: ESV_34
+---potential parent: ESV_34
+------checking: ESV_34
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 2.125 which is OK!
+SETTING ESV_63 to be an ERROR of ESV_34
+
+####processing: ESV_64 #####
+---hits: ESV_50
+---potential parent: ESV_50
+------checking: ESV_50
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 1.5 which is OK!
+SETTING ESV_64 to be an ERROR of ESV_50
+
+####processing: ESV_65 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: ESV_66 #####
+---hits: ESV_74
+---potential parent: ESV_74
+------checking: ESV_74
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 0.75
+No parent found!
+
+####processing: ESV_67 #####
+---hits: ESV_58
+---potential parent: ESV_58
+------checking: ESV_58
+------relative cooccurence: 0
+No parent found!
+
+####processing: ESV_68 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: ESV_69 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: ESV_70 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: ESV_71 #####
+---hits: ESV_52 
+---hits: ESV_23 
+---hits: ESV_48 
+---hits: ESV_78 
+---hits: ESV_24
+---potential parent: ESV_23 
+---potential parent: ESV_24 
+---potential parent: ESV_48 
+---potential parent: ESV_52 
+---potential parent: ESV_78
+------checking: ESV_23
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 3.42857142857143 which is OK!
+SETTING ESV_71 to be an ERROR of ESV_23
+
+------checking: ESV_24
+------checking: ESV_48
+------checking: ESV_52
+------checking: ESV_78
+####processing: ESV_72 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: ESV_73 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: ESV_74 #####
+---hits: ESV_66
+---potential parent: ESV_66
+------checking: ESV_66
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 1.33333333333333 which is OK!
+SETTING ESV_74 to be an ERROR of ESV_66
+
+####processing: ESV_75 #####
+---hits: ESV_57 
+---hits: ESV_35 
+---hits: ESV_59
+---potential parent: ESV_35 
+---potential parent: ESV_57 
+---potential parent: ESV_59
+------checking: ESV_35
+------relative cooccurence: 0
+------checking: ESV_57
+------relative cooccurence: 0
+------checking: ESV_59
+------relative cooccurence: 0
+No parent found!
+
+####processing: ESV_76 #####
+---hits: ESV_1 
+---hits: ESV_41
+---potential parent: ESV_1 
+---potential parent: ESV_41
+------checking: ESV_1
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 633.333333333333 which is OK!
+SETTING ESV_76 to be an ERROR of ESV_1
+
+------checking: ESV_41
+####processing: ESV_77 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: ESV_78 #####
+---hits: ESV_48 
+---hits: ESV_23 
+---hits: ESV_52 
+---hits: ESV_1 
+---hits: ESV_71
+---potential parent: ESV_23 
+---potential parent: ESV_1 
+---potential parent: ESV_48 
+---potential parent: ESV_52 
+---potential parent: ESV_71
+------checking: ESV_23
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 4.8 which is OK!
+SETTING ESV_78 to be an ERROR of ESV_23
+
+------checking: ESV_1
+------checking: ESV_48
+------checking: ESV_52
+------checking: ESV_71
+####processing: ESV_79 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: ESV_80 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: ESV_81 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: ESV_82 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: ESV_83 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: ESV_84 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: ESV_85 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: ESV_86 #####
+---hits: ESV_39
+---potential parent: ESV_39
+------checking: ESV_39
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 3.75 which is OK!
+SETTING ESV_86 to be an ERROR of ESV_12
+
+####processing: ESV_87 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: ESV_88 #####
+---hits: ESV_45 
+---hits: ESV_46 
+---hits: ESV_60
+---potential parent: ESV_45 
+---potential parent: ESV_46 
+---potential parent: ESV_60
+------checking: ESV_45
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 3.5 which is OK!
+SETTING ESV_88 to be an ERROR of ESV_45
+
+------checking: ESV_46
+------checking: ESV_60
+####processing: ESV_89 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: ESV_90 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: ESV_91 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: ESV_92 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: ESV_93 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: ESV_94 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: ESV_95 #####
+---hits: ESV_100
+---potential parent: ESV_100
+------checking: ESV_100
+------relative cooccurence: 0
+No parent found!
+
+####processing: ESV_96 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: ESV_100 #####
+---hits: ESV_95
+---potential parent: ESV_95
+------checking: ESV_95
+------relative cooccurence: 0
+No parent found!
+
+####processing: ESV_101 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: ESV_102 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: ESV_103 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: ESV_104 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: ESV_105 #####
+---hits: ESV_2
+---potential parent: ESV_2
+------checking: ESV_2
+------relative cooccurence: 1 which is sufficient!
+------min avg abundance: 742 which is OK!
+SETTING ESV_105 to be an ERROR of ESV_2
+
+####processing: ESV_106 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: ESV_107 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: ESV_108 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: ESV_109 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: ESV_110 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: ESV_97 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: ESV_98 #####
+---hits: 
+---potential parent: 
+No parent found!
+
+####processing: ESV_99 #####
+---hits: 
+---potential parent: 
+No parent found!
